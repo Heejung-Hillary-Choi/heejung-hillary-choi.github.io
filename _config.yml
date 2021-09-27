@@ -25,14 +25,14 @@ title:                 Hilly the Tiny Dev
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  ㅊ최희정의 최희정같은 최희정 사이트를 만들고 있습니다. 블로그를 사용하고 이
+  ㅆ으며 ㅇ어디까지 한국어가 나오나 보자. 오늘도 아름드리 소나무 아래에서 꿈은 꾼다. 
 
 # A shorter description for the sidebar.
 tagline:               안녕하세요, 신입개발자 최희정입니다.
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [#developer]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -42,8 +42,8 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Heejung> <Choi>
+  email:               <35heejungC@gmail.com>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
