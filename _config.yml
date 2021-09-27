@@ -53,6 +53,8 @@ menu:
     url:               /heejung-hillary-choi/
   - title:             NCS Management System
     url:               /H7_NCSManagementSystem/
+  - title:             Mini Projects
+    url:               /mini_projects/
   - title:             Contact
     url:               /contact/
 
