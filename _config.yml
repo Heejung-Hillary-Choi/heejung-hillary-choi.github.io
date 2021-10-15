@@ -57,6 +57,12 @@ menu:
     url:               /mini_projects/
   - title:             Contact
     url:               /contact/
+  - title:             listhyde
+    url:               /category/hyde
+  - title:             listmd
+    url:               /category/list
+  - title:             listmd3
+    url:               /category/list.md
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
