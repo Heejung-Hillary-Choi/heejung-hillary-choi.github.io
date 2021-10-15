@@ -89,6 +89,9 @@ remote_theme: hydecorp/hydejack@v9.1.4
 # Customizaton
 # ----------------------------------------------------------------------------------------
  
+favicon: /favicon.ico
+apple_touch_icon: /assets/img/logo.png
+ 
 # Sidebar image and theme color of the site.
 # This is color named midnight-purple.
 accent_image:          /assets/img/sidebar-bg.jpg
