@@ -42,17 +42,17 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <Heejung> <Choi>
-  email:               <35heejungC@gmail.com>
+  name:                Heejung Hillary Choi
+  email:               35heejungC@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
   - title:             About Me
-    url:               /heejung-hillary-choi/
+    url:               /about_me/
   - title:             NCS Management System
-    url:               /H7_NCSManagementSystem/
+    url:               /NCS_management_system/
   - title:             Mini Projects
     url:               /mini_projects/
   - title:             Contact
