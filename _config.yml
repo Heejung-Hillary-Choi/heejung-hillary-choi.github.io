@@ -50,7 +50,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About Me
-    url:               /about_me/
+    url:               /about-me.html
   - title:             NCS Management System
     url:               /NCS_management_system/
   - title:             Mini Projects
