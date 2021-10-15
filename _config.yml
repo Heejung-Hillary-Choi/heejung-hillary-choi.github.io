@@ -54,9 +54,9 @@ menu:
   - title:             NCS Management System
     url:               /NCS_management_system/
   - title:             Mini Projects
-    url:               /tag/list/
+    url:               /mini-projects/
   - title:             Contact
-    url:               /category/list/ 
+    url:               /contact/ 
     
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
