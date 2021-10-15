@@ -50,13 +50,13 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About Me
-    url:               /about-me.html
+    url:               /about-me/
   - title:             NCS Management System
     url:               /NCS_management_system/
   - title:             Mini Projects
-    url:               /mini_projects/
+    url:               /tag/list/
   - title:             Contact
-    url:               /contact/ 
+    url:               /category/list/ 
     
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
