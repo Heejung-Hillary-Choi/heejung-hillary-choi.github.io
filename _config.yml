@@ -65,6 +65,10 @@ menu:
     url:               /tag/list.html/
   - title:             tagmd
     url:               /tag/list.md/
+  - title:             listhtml
+    url:               /list.html/
+  - title:             listmd
+    url:               /list.md/    
     
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
