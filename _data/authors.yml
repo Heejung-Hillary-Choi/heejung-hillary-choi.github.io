@@ -2,17 +2,15 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <Heejung> <Choi>
-  email:             <35heejungC@gmail.com>
+  name:              Heejung Hillary Choi
+  email:             35heejungC@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    Hello! 
+    I A.M. Heejung Hillary Choi!
+    I am still figuring out how to use this jekyll-hide layout hahah..
 
   # This photo will be used in the about section
   picture:
@@ -26,15 +24,15 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    naver-blog:      <13dltk>
+    naver-blog:      13dltk
     # twitter:         <username>
-    github:          <Heejung-Hillary-Choi>
-    email:           <35heejungC@gmail.com>
+    github:          Heejung-Hillary-Choi
+    email:           35heejungC@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
-    youtube:         <UCC0lXs4gIstmI784QjKtmMg>
+    youtube:         UCC0lXs4gIstmI784QjKtmMg
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
