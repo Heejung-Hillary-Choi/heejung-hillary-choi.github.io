@@ -25,11 +25,11 @@ title:                 Hilly the Tiny Dev
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  ㅊ최희정의 최희정같은 최희정 사이트를 만들고 있습니다. 블로그를 사용하고 이
-  ㅆ으며 ㅇ어디까지 한국어가 나오나 보자. 오늘도 아름드리 소나무 아래에서 꿈은 꾼다. 
+  최희정의 최희정같은 최희정 사이트를 만들고 있습니다. 
+  오늘도 아름드리 소나무 아래에서 꿈은 꾼다. 
 
 # A shorter description for the sidebar.
-tagline:               안녕하세요, 신입개발자 최희정입니다.
+tagline:               안녕하세요, 개발자 최희정입니다.
 
 # A list of keywords for your blog
 keywords:              
