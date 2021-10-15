@@ -56,19 +56,7 @@ menu:
   - title:             Mini Projects
     url:               /mini_projects/
   - title:             Contact
-    url:               /contact/
-  - title:             categoryhtml
-    url:               /category/list.html/
-  - title:             categorymd
-    url:               /category/list.md/
-  - title:             taghtml
-    url:               /tag/list.html/
-  - title:             tagmd
-    url:               /tag/list.md/
-  - title:             listhtml
-    url:               /list.html/
-  - title:             listmd
-    url:               /list.md/    
+    url:               /contact/ 
     
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
